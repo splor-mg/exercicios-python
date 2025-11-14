@@ -1,0 +1,21 @@
+[project]
+name = "curso-python"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Raiane Cardoso",email = "166438302+raianecardoso@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12,<4.0"
+dependencies = [
+    "pytest (>=9.0.1,<10.0.0)",
+    "taskipy (>=1.14.1,<2.0.0)"
+]
+
+[tool.taskipy.tasks]
+test = { cmd = "pytest", help = "Runs all unit tests." }
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
