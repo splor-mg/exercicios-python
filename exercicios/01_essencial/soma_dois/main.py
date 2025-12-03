@@ -1,0 +1,3 @@
+def resposta(nums):
+    pass
+
