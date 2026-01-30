@@ -1,3 +1,10 @@
+---
+aula: Aula 007: Formatação de strings
+tags: 
+    - String
+    - Condicionais
+---
+
 ## Objetivo
 
 Manipular strings é uma habilidade essencial no início do aprendizado de programação. Neste exercício, vamos praticar como criar novas strings a partir de uma original, removendo um caractere específico com base em sua posição.
