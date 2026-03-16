@@ -8,7 +8,7 @@ Neste exercício, vamos treinar lógica condicional avaliando duas informações
 Abra o arquivo `main.py`. Nele, você encontrará a função `resposta`.
 Essa função deverá receber dois parâmetros:
 
-- falando — um valor booleano (True ou False) indicando se o papagaio está falando.
+- falando — um valor booleano indicando se o papagaio está falando.
 - hora — um inteiro entre 0 e 23, representando o horário do dia.
 
 Sua tarefa é retornar True se estivermos com problemas, seguindo as regras abaixo:
@@ -20,4 +20,4 @@ Há problema se o papagaio estiver falando:
 
 Nos demais casos, retorne `False`.
 
-Use sempre return, não print.
+Atenção: utilize return, não print.

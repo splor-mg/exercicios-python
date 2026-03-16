@@ -10,7 +10,7 @@ Sua função deverá receber um inteiro positivo n e retornar a soma de todos os
 
 Siga estas regras:
 
-- Considere apenas os valores estritamente menores que n.
+- Considere apenas os valores estritamente menores que `n`.
 - Inclua na soma números múltiplos de 3, de 5 ou de ambos.
 
 Alguns exemplos:
@@ -19,4 +19,4 @@ Alguns exemplos:
 - soma(10) → 23 (3 + 5 + 6 + 9)
 - soma(20) → 78 (3 + 5 + 6 + 9 + 10 + 12 + 15 + 18)
 
-Use sempre return, não print.
+Atenção: utilize return, não print.

@@ -18,3 +18,5 @@ Abra o arquivo `main.py` Dentro dele, certifique-se de que a função `resposta`
 - O próprio número n (como inteiro) nos demais casos
 
 O retorno da função deverá ser uma String ou um int, dependendo das condições acima.
+
+Atenção: utilize return, não print.
