@@ -1,2 +1,2 @@
-def resposta():
+def resposta(valor, horas):
     pass

@@ -1,5 +1,5 @@
 ---
-Tags: Variáveis, Operações Aritméticas, Estruturas Condicionais (if), Funções, Parâmetros, Instrução return
+Tags: Variáveis, Operações Aritméticas, Estruturas Condicionais (if), Tuplas
 Nível: Iniciante
 ---
 
@@ -25,8 +25,6 @@ E deverá retornar uma tupla com os seguintes valores:
 3. Valor descontado do INSS (8%)
 4. Valor descontado do sindicato (5%)
 5. Salário líquido
-
-Caso o exercício original peça entrada de dados com `input()`, considere que esses valores serão passados como parâmetros para a função `resposta`.
 
 Regras:
 
