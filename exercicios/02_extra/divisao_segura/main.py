@@ -1,2 +1,5 @@
 def resposta(a, b):
-    pass
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return "Valores inválidos"
