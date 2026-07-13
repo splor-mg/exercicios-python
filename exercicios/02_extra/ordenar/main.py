@@ -1,2 +1,3 @@
 def resposta(lista):
-    pass
+    lista.sort()
+    return lista
