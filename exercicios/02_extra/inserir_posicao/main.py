@@ -1,2 +1,3 @@
 def resposta(lista, indice, item):
-    pass
+    lista.insert(indice, item)
+    return lista
