@@ -1,2 +1,2 @@
 def resposta(dicionario, chave):
-    pass
+    return dicionario.get(chave)
