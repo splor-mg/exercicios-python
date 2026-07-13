@@ -1,2 +1,5 @@
 def resposta(votos):
-    pass
+    contagem = {}
+    for voto in votos:
+        contagem[f"{voto}"] = votos.count(voto)
+    return contagem
