@@ -1,2 +1,2 @@
 def resposta(nome, idade, cidade):
-    pass
+    return {'nome': nome, 'idade': idade, 'cidade': cidade}
